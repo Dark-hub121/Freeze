@@ -1,3 +1,13 @@
+```
+git clone https://github.com/Dark-hub121/Freeze.git
+```
+
+
+
+
+
+
+
 # Freeze
 It will freeze the internet of you victim 
 ```
