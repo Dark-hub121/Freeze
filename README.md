@@ -13,5 +13,5 @@ It will freeze the internet of you victim
 cd Freeze
 ```
 ```
-python p.cpython-314.pyc
+python Freeze.py
 ```
