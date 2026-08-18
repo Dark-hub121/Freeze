@@ -3,14 +3,6 @@ git clone https://github.com/Dark-hub121/Freeze.git
 ```
 
 # run it as root 
-```
-tsu
-```
-```
-chmod +x cut3.Freeze.so
-```
-
-
 
 
 # Freeze
