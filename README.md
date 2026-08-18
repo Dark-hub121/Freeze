@@ -6,7 +6,9 @@ git clone https://github.com/Dark-hub121/Freeze.git
 ```
 tsu
 ```
-
+```
+chmod +x cut3.Freeze.so
+```
 
 
 
