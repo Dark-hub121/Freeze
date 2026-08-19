@@ -1,3 +1,6 @@
+
+# If you have a basic reverse engineering knowledge then unscramble my code make changes how you like no restriction (it's not that hard to unscaled it I didn't put effort to it )
+
 ```
 git clone https://github.com/Dark-hub121/Freeze.git
 ```
