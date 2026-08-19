@@ -2,7 +2,7 @@
 git clone https://github.com/Dark-hub121/Freeze.git
 ```
 
-# run it as root 
+# You must need root 
 ```
 tsu
 ```
