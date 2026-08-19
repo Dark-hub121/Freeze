@@ -15,3 +15,4 @@ cd Freeze
 ```
 python Freeze.py
 ```
+# You have to answer some questions and freeze the internet of you Target 😝
